@@ -57,7 +57,7 @@ I built an **interactive dashboard** that provides insights into:
 
 ## 📸 Dashboard Preview
 
-![CRM Dashboard Preview](Excel%20Project.png)
+![CRM Dashboard Preview](Excel Project.png)
 
 ---
 
