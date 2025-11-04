@@ -76,6 +76,5 @@ I built an **interactive dashboard** that provides insights into:
 
 **Arish Khan**  
 Data Analyst
-
 📧 Email - [arishkhan2227@gmail.com](mailto:arishkhan2227@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/arishkhan2227)
